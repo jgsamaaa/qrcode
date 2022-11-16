@@ -8,10 +8,6 @@ Live Server: https://qrcodegeneratorproject.netlify.app/
 
 ![Search](https://i.ibb.co/kq5YFsx/qrcode2.png)
 
-## Downlaod Qr Code
-
-![Images](https://i.ibb.co/bdQzbws/qr-code-generator-download.png)
-
 ## Tech Stack
 
 **Client:** ReactJS, TailwindCSS
