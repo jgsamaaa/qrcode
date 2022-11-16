@@ -4,13 +4,9 @@ A simple ReactJS with Tailwindcss that can generate a QR Code, you can download 
 
 Live Server: https://qrcodegeneratorproject.netlify.app/
 
-## Home
-
-![Goggles](https://i.ibb.co/cXhn089/QR-CODE-done-1.png)
-
 ## Generate QR Code
 
-![Search](https://i.ibb.co/QDtt6MV/qr-code-done-2.png)
+![Search](https://i.ibb.co/kq5YFsx/qrcode2.png)
 
 ## Downlaod Qr Code
 
@@ -18,14 +14,14 @@ Live Server: https://qrcodegeneratorproject.netlify.app/
 
 ## Tech Stack
 
-**Client:** React, TailwindCSS, API
+**Client:** ReactJS, TailwindCSS
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/jgsamaaa/React-QR-Code-Generator.git
+  git clone https://github.com/jgsamaaa/qrcode
 ```
 
 Go to the project directory
@@ -45,8 +41,3 @@ Start the server
 ```bash
   npm  start
 ```
-
-## Future Implementation
-
-- Add some Styles.
-- Add option to make them choose what color they like to use.
